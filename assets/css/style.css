@@ -110,9 +110,9 @@ h2 {
       margin: 0 auto;
       margin-top: -13px; }
   .fh5co-home-banner .center-text {
-    text-align: center;
+    text-align: inherit;
     position: relative;
-    top: 35%; }
+    top: -2%; }
   .fh5co-home-banner .card-img-overlay {
     background: -webkit-linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8), black);
     background: -moz-linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8), black);
